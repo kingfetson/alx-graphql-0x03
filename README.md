@@ -45,7 +45,7 @@ alx-rick-and-morty-app/
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/alx-graphql-0x02.git
+git clone https://github.com/kingfetson/alx-graphql-0x02.git
 cd alx-graphql-0x02/alx-rick-and-morty-app
 2. Install dependencies
 npm install
